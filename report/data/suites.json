@@ -1,0 +1,65 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_pymysql",
+    "children" : [ {
+      "name" : "test_logout_01",
+      "uid" : "297b5cfd0c6355ca",
+      "parentUid" : "32e8afce6fd93aba4ca94a2968221e71",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604845353364,
+        "stop" : 1604845353364,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_logout_02",
+      "uid" : "3f4b1c29ac46820c",
+      "parentUid" : "32e8afce6fd93aba4ca94a2968221e71",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604845353366,
+        "stop" : 1604845353366,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "32e8afce6fd93aba4ca94a2968221e71"
+  }, {
+    "name" : "test_request",
+    "children" : [ {
+      "name" : "test_01_login",
+      "uid" : "5b0c544b09ce8410",
+      "parentUid" : "c395e29f8939ee6824f54e5bc3a90014",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604845353369,
+        "stop" : 1604845353369,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_02_login",
+      "uid" : "cd249c5445e2ee19",
+      "parentUid" : "c395e29f8939ee6824f54e5bc3a90014",
+      "status" : "failed",
+      "time" : {
+        "start" : 1604845353372,
+        "stop" : 1604845353372,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "c395e29f8939ee6824f54e5bc3a90014"
+  } ]
+}

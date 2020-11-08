@@ -1,0 +1,50 @@
+{
+  "uid" : "3f4b1c29ac46820c",
+  "name" : "test_logout_02",
+  "fullName" : "test_pymysql#test_logout_02",
+  "historyId" : "ab86685c6401de4af349f4b977967c74",
+  "time" : {
+    "start" : 1604845353366,
+    "stop" : 1604845353366,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_pymysql"
+  }, {
+    "name" : "host",
+    "value" : "WIN-4UUDP7C921V"
+  }, {
+    "name" : "thread",
+    "value" : "10724-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_pymysql"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3f4b1c29ac46820c.json",
+  "parameterValues" : [ ]
+}

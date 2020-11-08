@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Sun Nov 08 22:22:33 CST 2020","Sun Nov 08 22:22:33 CST 2020","0","","test_request","","","","test_02_login",""
+"passed","Sun Nov 08 22:22:33 CST 2020","Sun Nov 08 22:22:33 CST 2020","0","","test_pymysql","","","","test_logout_01",""
+"passed","Sun Nov 08 22:22:33 CST 2020","Sun Nov 08 22:22:33 CST 2020","0","","test_pymysql","","","","test_logout_02",""
+"passed","Sun Nov 08 22:22:33 CST 2020","Sun Nov 08 22:22:33 CST 2020","0","","test_request","","","","test_01_login",""

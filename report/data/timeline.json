@@ -1,0 +1,65 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "WIN-4UUDP7C921V",
+    "children" : [ {
+      "name" : "10724-MainThread",
+      "children" : [ {
+        "name" : "test_02_login",
+        "uid" : "cd249c5445e2ee19",
+        "parentUid" : "f65e5dab3e8cd1b59c8458aaeed62ddd",
+        "status" : "failed",
+        "time" : {
+          "start" : 1604845353372,
+          "stop" : 1604845353372,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_logout_01",
+        "uid" : "297b5cfd0c6355ca",
+        "parentUid" : "f65e5dab3e8cd1b59c8458aaeed62ddd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604845353364,
+          "stop" : 1604845353364,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_logout_02",
+        "uid" : "3f4b1c29ac46820c",
+        "parentUid" : "f65e5dab3e8cd1b59c8458aaeed62ddd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604845353366,
+          "stop" : 1604845353366,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_01_login",
+        "uid" : "5b0c544b09ce8410",
+        "parentUid" : "f65e5dab3e8cd1b59c8458aaeed62ddd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604845353369,
+          "stop" : 1604845353369,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f65e5dab3e8cd1b59c8458aaeed62ddd"
+    } ],
+    "uid" : "effeb1c09e2181ceed851268833f3d7b"
+  } ]
+}

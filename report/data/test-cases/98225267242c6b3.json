@@ -1,0 +1,50 @@
+{
+  "uid" : "98225267242c6b3",
+  "name" : "test_02_login",
+  "fullName" : "test_request#test_02_login",
+  "historyId" : "a4ef85c776a6f72c12398de4b6e3c8d6",
+  "time" : {
+    "start" : 1604845095495,
+    "stop" : 1604845095495,
+    "duration" : 0
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 3 < 2",
+  "statusTrace" : "def test_02_login():\n>       assert 3<2\nE       assert 3 < 2\n\ntest_request.py:10: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_request"
+  }, {
+    "name" : "host",
+    "value" : "WIN-4UUDP7C921V"
+  }, {
+    "name" : "thread",
+    "value" : "11864-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_request"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "98225267242c6b3.json",
+  "parameterValues" : [ ]
+}
